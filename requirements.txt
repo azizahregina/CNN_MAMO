@@ -1,0 +1,9 @@
+numpy
+opencv-python
+Keras-Preprocessing
+matplotlib
+tensorflow
+jupyter
+notebook
+voila==0.2.4
+voila-hover
