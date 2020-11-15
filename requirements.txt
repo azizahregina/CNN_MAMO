@@ -3,5 +3,5 @@ opencv-python
 matplotlib
 jupyter
 notebook
-voila==0.1.23
+voila
 voila-hover
