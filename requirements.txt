@@ -1,5 +1,6 @@
 numpy==1.16.0
 opencv-python
+keras
 keras-preprocessing
 tensorflow
 matplotlib
