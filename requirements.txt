@@ -1,5 +1,7 @@
 numpy
 opencv-python
+keras-preprocessing
+tensorflow
 matplotlib
 jupyter
 notebook
