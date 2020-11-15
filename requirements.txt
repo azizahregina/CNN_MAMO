@@ -1,4 +1,4 @@
-numpy
+numpy==1.16.0
 opencv-python
 keras-preprocessing
 tensorflow
