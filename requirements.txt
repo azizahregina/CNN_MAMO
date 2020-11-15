@@ -5,6 +5,7 @@ keras
 keras-preprocessing
 tensorflow
 matplotlib
+plotly
 jupyter
 notebook
 voila==0.1.23
