@@ -4,6 +4,7 @@ opencv-python
 keras
 keras-preprocessing
 tensorflow
+pandas
 matplotlib
 plotly
 jupyter
